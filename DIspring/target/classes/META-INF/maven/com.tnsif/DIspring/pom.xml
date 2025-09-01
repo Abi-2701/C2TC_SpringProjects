@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.tnsif</groupId>
-  <artifactId>SpringDI</artifactId>
+  <artifactId>DIspring</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>SpringDI</name>
+  <name>DIspring</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -15,12 +15,6 @@
   </properties>
 
   <dependencies>
-  <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
-<dependency>
-    <groupId>org.springframework</groupId>
-    <artifactId>spring-context</artifactId>
-    <version>7.0.0-M8</version>
-</dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
