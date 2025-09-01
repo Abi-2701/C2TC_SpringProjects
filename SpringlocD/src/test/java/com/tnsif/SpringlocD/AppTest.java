@@ -1,4 +1,4 @@
-package com.tnsif.DIspring;
+package com.tnsif.SpringlocD;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
