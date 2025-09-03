@@ -15,8 +15,7 @@ public class DiApplication {
 		Customer3 c3=var.getBean(Customer3.class);
 		
 		c1.show();
-		c2.show();
-		c3.show();
+		
 	}
 
 }
